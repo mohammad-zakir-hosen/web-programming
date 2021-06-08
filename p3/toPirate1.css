@@ -1,0 +1,29 @@
+
+body {
+  width: 800px;
+}
+
+button {
+  font-size: 20px;
+  float: left;
+}
+
+h3 {
+  width: 600px;
+}
+
+hr {
+  width: auto;
+}
+
+img {
+  width: 200px;
+  float: right;
+  border: thin solid;
+  padding: .2em;
+  margin: .2em;
+}
+
+textarea {
+  font-size: 24px;
+}
